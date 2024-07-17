@@ -1,14 +1,59 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "projects": [
+    {
+      "id" : 1,
+      "name" : "Проект 1",
+      "remaining" : "25",
+      "remaining_of" : "57",
+      "status" : "start",
+      "users": "246"
+    },
+    {
+      "id" : 2,
+      "name" : "Проект 2",
+      "remaining" : "304",
+      "remaining_of" : "348",
+      "status" : "finish",
+      "users": "567"
+    },
+    {
+      "id" : 3,
+      "name" : "Проект 3",
+      "remaining" : "0",
+      "remaining_of": "60",
+      "status" : "not_start",
+      "users": "0"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "users" : [
+      {
+        "id": 274332,
+        "projects": 4,
+        "all_presents": 10
+      },
+      {
+        "id": 6788789,
+        "projects": 1,
+        "all_presents": 7
+      },
+      {
+        "id": 872979,
+        "projects": 2,
+        "all_presents": 5
+      },
+      {
+        "id": 289209,
+        "projects": 2,
+        "all_presents": 7
+      },
+      {
+        "id": 222789,
+        "projects": 1,
+        "all_presents": 7
+      }
   ],
   "profile": {
-    "name": "typicode"
+    "id": 228,
+    "name": "Анастасия"
   }
 }

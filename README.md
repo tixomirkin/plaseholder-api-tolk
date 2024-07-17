@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/tixomirkin/plaseholder-api-tolk](https://my-json-server.typicode.com/tixomirkin/plaseholder-api-tolk)
 
 ## Use your own data
 

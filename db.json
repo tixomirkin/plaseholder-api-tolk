@@ -37,27 +37,33 @@
       {
         "id": 274332,
         "projects": 4,
-        "all_presents": 10
+        "all_presents": 10,
+        "list_projects": [{"name":"Первый проект", "count": "2"}, {"name":"Второй проект", "count":"1"}, {"name":"Третий проект", "count":"4"}]
+
       },
       {
         "id": 6788789,
         "projects": 1,
-        "all_presents": 7
+        "all_presents": 7,
+        "list_projects": [{"name":"Первый проект", "count": "2"}, {"name":"Второй проект", "count":"1"}, {"name":"Третий проект", "count":"4"}]
       },
       {
         "id": 872979,
         "projects": 2,
-        "all_presents": 5
+        "all_presents": 5,
+        "list_projects": [{"name":"Первый проект", "count": "2"}, {"name":"Второй проект", "count":"1"}, {"name":"Третий проект", "count":"4"}]
       },
       {
         "id": 289209,
         "projects": 2,
-        "all_presents": 7
+        "all_presents": 7,
+        "list_projects": [{"name":"Первый проект", "count": "2"}, {"name":"Второй проект", "count":"1"}, {"name":"Третий проект", "count":"4"}]
       },
       {
         "id": 222789,
         "projects": 1,
-        "all_presents": 7
+        "all_presents": 7,
+        "list_projects": [{"name":"Первый проект", "count": "2"}, {"name":"Второй проект", "count":"1"}, {"name":"Третий проект", "count":"4"}]
       }
   ],
   "profile": {

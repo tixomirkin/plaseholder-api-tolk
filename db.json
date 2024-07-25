@@ -23,6 +23,14 @@
       "remaining_of": "60",
       "status" : "not_start",
       "users": "0"
+    },
+    {
+      "id" : 4,
+      "name" : "Проект 4",
+      "remaining" : "0",
+      "remaining_of": "121",
+      "status" : "not_start",
+      "users": "0"
     }
   ],
   "users" : [

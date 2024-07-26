@@ -38,32 +38,42 @@
         "id": 274332,
         "projects": 4,
         "all_presents": 10,
-        "list_projects": [{"name":"Первый проект", "count": "2"}, {"name":"Второй проект", "count":"1"}, {"name":"Третий проект", "count":"4"}]
+        "list_projects": [{"name":"Первый проект", "count": "2"}, {"name":"Второй проект", "count":"1"}, {"name":"Третий проект", "count":"4"}],
+        "raiting": 4.5,
+        "date_agree_rules": 1721991982
 
       },
       {
         "id": 6788789,
         "projects": 1,
         "all_presents": 7,
-        "list_projects": [{"name":"Первый проект", "count": "2"}, {"name":"Второй проект", "count":"1"}, {"name":"Третий проект", "count":"4"}]
+        "list_projects": [{"name":"Первый проект", "count": "2"}, {"name":"Второй проект", "count":"1"}, {"name":"Третий проект", "count":"4"}],
+        "raiting": 4.5,
+        "date_agree_rules": 1721991982
       },
       {
         "id": 872979,
         "projects": 2,
         "all_presents": 5,
-        "list_projects": [{"name":"Первый проект", "count": "2"}, {"name":"Второй проект", "count":"1"}, {"name":"Третий проект", "count":"4"}]
+        "list_projects": [{"name":"Первый проект", "count": "2"}, {"name":"Второй проект", "count":"1"}, {"name":"Третий проект", "count":"4"}],
+        "raiting": 4.5,
+        "date_agree_rules": 1721991982
       },
       {
         "id": 289209,
         "projects": 2,
         "all_presents": 7,
-        "list_projects": [{"name":"Первый проект", "count": "2"}, {"name":"Второй проект", "count":"1"}, {"name":"Третий проект", "count":"4"}]
+        "list_projects": [{"name":"Первый проект", "count": "2"}, {"name":"Второй проект", "count":"1"}, {"name":"Третий проект", "count":"4"}],
+        "raiting": 4.5,
+        "date_agree_rules": 1721991982
       },
       {
         "id": 222789,
         "projects": 1,
         "all_presents": 7,
-        "list_projects": [{"name":"Первый проект", "count": "2"}, {"name":"Второй проект", "count":"1"}, {"name":"Третий проект", "count":"4"}]
+        "list_projects": [{"name":"Первый проект", "count": "2"}, {"name":"Второй проект", "count":"1"}, {"name":"Третий проект", "count":"4"}],
+        "raiting": 4.5,
+        "date_agree_rules": 1721991982
       }
   ],
   "profile": {

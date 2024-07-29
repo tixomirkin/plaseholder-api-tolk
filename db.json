@@ -9,7 +9,7 @@
       "users": "246"
     },
     {
-      "id" : 2,
+      "id" : 1,
       "name" : "Проект 2",
       "remaining" : "304",
       "remaining_of" : "348",
@@ -17,7 +17,7 @@
       "users": "567"
     },
     {
-      "id" : 3,
+      "id" : 1,
       "name" : "Проект 3",
       "remaining" : "0",
       "remaining_of": "60",
@@ -25,7 +25,7 @@
       "users": "0"
     },
     {
-      "id" : 4,
+      "id" : 1,
       "name" : "Проект 4",
       "remaining" : "0",
       "remaining_of": "121",
@@ -79,5 +79,134 @@
   "profile": {
     "id": 228,
     "name": "Анастасия"
+  },
+  "project" : {
+    "id": 1,
+    "title": "Проект 1",
+    "remain_usages": 100,
+    "total_usages": 228,
+    "status": "start",
+    "all_users": 213,
+    "link": "https://t.me/tolik_bot",
+    "timestamp": 1721991982,
+
+    "items": [
+        {
+          "id": 43,
+          "custom_id": 1,
+          "title": "Товар 1",
+          "link": "https://www.wildberries.ru/",
+          "description": "Офигенный товар",
+          "shops_count": 3,
+          "used_goods": 32,
+          "all_goods": 60,
+          "edit_time": 1721991982,
+          "shops": [
+            {
+              "id": 382,
+              "custom_id": 1,
+              "title": "Магазин 1",
+              "link": "https://www.wildberries.ru/",
+              "description": "Офигенный товар",
+              "shops_count": 3,
+              "used_goods": 32,
+              "all_goods": 60,
+              "edit_time": 1721991982
+            },
+            {
+              "id": 3243,
+              "custom_id": 1,
+              "title": "Магазин 2",
+              "link": "https://www.wildberries.ru/",
+              "description": "Офигенный товар",
+              "shops_count": 3,
+              "used_goods": 32,
+              "all_goods": 60,
+              "edit_time": 1721991982
+            },
+            {
+              "id": 1123,
+              "custom_id": 1,
+              "title": "Магазин 3",
+              "link": "https://www.wildberries.ru/",
+              "description": "Офигенный товар",
+              "shops_count": 3,
+              "used_goods": 32,
+              "all_goods": 60,
+              "edit_time": 1721991982
+            }
+          ]
+        },
+      {
+        "id": 3242,
+        "custom_id": 2,
+        "title": "Товар 2",
+        "link": "https://www.wildberries.ru/",
+        "description": "Офигенный товар",
+        "shops_count": 3,
+        "used_goods": 32,
+        "all_goods": 60,
+        "edit_time": 1721991982,
+        "shops": [
+          {
+            "id": 382,
+            "custom_id": 1,
+            "title": "Магазин 1",
+            "link": "https://www.wildberries.ru/",
+            "description": "Офигенный товар",
+            "shops_count": 3,
+            "used_goods": 32,
+            "all_goods": 60,
+            "edit_time": 1721991982
+          },
+          {
+            "id": 3243,
+            "custom_id": 1,
+            "title": "Магазин 2",
+            "link": "https://www.wildberries.ru/",
+            "description": "Офигенный товар",
+            "shops_count": 3,
+            "used_goods": 32,
+            "all_goods": 60,
+            "edit_time": 1721991982
+          },
+          {
+            "id": 1123,
+            "custom_id": 1,
+            "title": "Магазин 3",
+            "link": "https://www.wildberries.ru/",
+            "description": "Офигенный товар",
+            "shops_count": 3,
+            "used_goods": 32,
+            "all_goods": 60,
+            "edit_time": 1721991982
+          }
+        ]
+      }
+      ],
+
+    "users": [
+      {
+        "id": 274332,
+        "projects": 4,
+        "presents": 10,
+        "raiting": 4.5,
+        "status": "wait"
+      },
+      {
+        "id": 274332,
+        "projects": 4,
+        "presents": 10,
+        "raiting": 4.5,
+        "status": "wait"
+      },
+      {
+        "id": 274332,
+        "projects": 4,
+        "presents": 10,
+        "raiting": 4.5,
+        "status": "wait"
+      }
+    ]
   }
 }

@@ -207,6 +207,33 @@
         "raiting": 4.5,
         "status": "wait"
       }
+    ],
+
+    "checks": [
+      {
+        "id": 1313,
+        "good_id": 213,
+        "good_title": "Товар 1",
+        "status": "ok",
+        "timestamp": 1721991982,
+        "images": ["url", "url"]
+      },
+      {
+        "id": 1313,
+        "good_id": 213,
+        "good_title": "Товар 2",
+        "status": "ok",
+        "timestamp": 1721991982,
+        "images": ["url", "url"]
+      },
+      {
+        "id": 1313,
+        "good_id": 213,
+        "good_title": "Товар 3",
+        "status": "ok",
+        "timestamp": 1721991982,
+        "images": ["url", "url"]
+      }
     ]
   }
 }
